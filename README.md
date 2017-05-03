@@ -17,3 +17,7 @@ https://www.assetstore.unity3d.com/jp/#!/content/27676<br>
 上記アセットの無料版です。無料版のアセットの機能のみで当プロジェクトは作成しているのでこちらのアセットでも動作可能です。<br>
 ## 推奨動作環境
 Unity5.5.1以降のバージョン
+## 動作サンプル
+<img src="https://github.com/yunomigithub/BannerScrollSample/blob/image/BannerSample1.gif">
+<img src="https://github.com/yunomigithub/BannerScrollSample/blob/image/BannerSample2.gif">
+
